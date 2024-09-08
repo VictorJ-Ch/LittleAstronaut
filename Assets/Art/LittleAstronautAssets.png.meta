@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: d4a73c049600c4a1fb486b4253fe5516
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1725426469435201794
+    second: LittleAstronautAssets_0
+  - first:
+      213: 5809244720597002732
+    second: LittleAstronautAssets_1
+  - first:
+      213: 5783013234763337473
+    second: LittleAstronautAssets_2
+  - first:
+      213: 4799008359932696554
+    second: LittleAstronautAssets_3
+  - first:
+      213: 5517276698318315583
+    second: LittleAstronautAssets_4
+  - first:
+      213: 904734847388400542
+    second: LittleAstronautAssets_5
+  - first:
+      213: 4380300025966771754
+    second: LittleAstronautAssets_6
+  - first:
+      213: 4334612636544967910
+    second: LittleAstronautAssets_7
+  - first:
+      213: 328141485297909708
+    second: LittleAstronautAssets_8
+  - first:
+      213: -2346464211259882062
+    second: LittleAstronautAssets_9
+  - first:
+      213: 9133845702926119209
+    second: LittleAstronautAssets_10
+  - first:
+      213: -36697149663241009
+    second: LittleAstronautAssets_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LittleAstronautAssets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 1135
+        height: 1694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209ddb47b32f1f710800000000000000
+      internalID: 1725426469435201794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleAstronautAssets_1
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1904
+        width: 826
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce96f707b459e9050800000000000000
+      internalID: 5809244720597002732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleAstronautAssets_2
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 194
+        width: 905
+        height: 1899
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f8375b5e3614050800000000000000
+      internalID: 5783013234763337473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleAstronautAssets_3
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 1426
+        width: 694
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae71be75da0899240800000000000000
+      internalID: 4799008359932696554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleAstronautAssets_4
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1666
+        width: 826
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30adc2eced419c40800000000000000
+      internalID: 5517276698318315583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleAstronautAssets_5
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1403
+        width: 826
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bb08adc834e8c00800000000000000
+      internalID: 904734847388400542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleAstronautAssets_6
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1144
+        width: 827
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e32617aa3f9cc30800000000000000
+      internalID: 4380300025966771754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleAstronautAssets_7
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 49
+        width: 527
+        height: 1186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4ae282a33a72c30800000000000000
+      internalID: 4334612636544967910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleAstronautAssets_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 864
+        width: 827
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf304b31facd8400800000000000000
+      internalID: 328141485297909708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleAstronautAssets_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 571
+        width: 827
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b500b16b3faf6fd0800000000000000
+      internalID: -2346464211259882062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleAstronautAssets_10
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 274
+        width: 827
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921b32c0640f1ce70800000000000000
+      internalID: 9133845702926119209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LittleAstronautAssets_11
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 0
+        width: 827
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc9d060320ad7ff0800000000000000
+      internalID: -36697149663241009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LittleAstronautAssets_0: 1725426469435201794
+      LittleAstronautAssets_1: 5809244720597002732
+      LittleAstronautAssets_10: 9133845702926119209
+      LittleAstronautAssets_11: -36697149663241009
+      LittleAstronautAssets_2: 5783013234763337473
+      LittleAstronautAssets_3: 4799008359932696554
+      LittleAstronautAssets_4: 5517276698318315583
+      LittleAstronautAssets_5: 904734847388400542
+      LittleAstronautAssets_6: 4380300025966771754
+      LittleAstronautAssets_7: 4334612636544967910
+      LittleAstronautAssets_8: 328141485297909708
+      LittleAstronautAssets_9: -2346464211259882062
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
