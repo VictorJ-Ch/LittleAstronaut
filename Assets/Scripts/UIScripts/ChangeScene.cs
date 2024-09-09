@@ -15,6 +15,7 @@ public class ChangeScene : MonoBehaviour
 
     public void ChangingScene()
     {
+        Debug.Log("Button pressed");
         SceneManager.LoadScene(sceneName);
     }
 }

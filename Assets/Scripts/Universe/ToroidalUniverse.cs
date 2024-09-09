@@ -30,13 +30,11 @@ public class ToroidalUniverse : MonoBehaviour
         {
             pos.y = borders.inferiorBorder;
             transform.position = pos;
-            Debug.Log("Borde superior");
         }
         if(y < borders.inferiorBorder)
         {
             pos.y = borders.superiorBorder;
             transform.position = pos;
-            Debug.Log("Borde inferior");
         }
     }
 }
