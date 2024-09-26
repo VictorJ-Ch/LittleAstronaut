@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class SaveManager : MonoBehaviour
 {
+    public static SaveManager instance;
     void Start()
     {
         /*
@@ -13,7 +14,7 @@ public class SaveManager : MonoBehaviour
         int age = PlayerPrefs.GetInt("Age");
         print(age);
         */
-        string rute = Application.dataPath + "/StreamingAssets/heroClass.json";
+        // string rute = Application.dataPath + "/StreamingAssets/heroClass.json";
         //2nd other
         /*
         HeroClass goku = new HeroClass("Goku", 20, 20, 2);
@@ -36,20 +37,24 @@ public class SaveManager : MonoBehaviour
         
         File.WriteAllText(rute, json);
         */
-
-        HeroClass[] heroes = new HeroClass[2];
-        heroes[0] = new HeroClass("Milk", 2, 2, 15);
-        heroes[0] = new HeroClass("Bulma", 2, 3, 18);
-
-        string json = JsonHelper.ToJson(heroes, true);
-
-        string ruteArray = Application.dataPath + "/StreamingAssets/heros.json";
-        File.WriteAllText(ruteArray, json);
+        instance = this;
+        
     }
     void Update()
     {
         
     }
+    public void SavingData()
+    {
+        SaveScore highScoreSave = new SaveScore(PlayerPrefs.GetFloat("HighScore"));
+
+        string json = JsonUtility.ToJson(highScoreSave, true);
+        //string json = JsonHelper.ToJson(highScoreSave, true);
+
+        string ruteArray = Application.streamingAssetsPath + "/highScore.json";
+        File.WriteAllText(ruteArray, json);
+    }
+
 }
 public static class JsonHelper
 {

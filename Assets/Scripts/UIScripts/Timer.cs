@@ -2,7 +2,8 @@ using System.Collections;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
-
+ using System;
+using System.IO;
 public class Timer : MonoBehaviour
 {
     public TextMeshProUGUI timer;
@@ -43,6 +44,9 @@ public class Timer : MonoBehaviour
                 highScore = currentTime;
                 PlayerPrefs.SetFloat("HighScore", highScore);
                 PlayerPrefs.Save();
+                //------
+                SaveManager.instance.SavingData();
+                //------
                 Debug.Log("New High Score: " + highScore.ToString("F2"));
                 if (!isNewRecordPlayed)
                 {
