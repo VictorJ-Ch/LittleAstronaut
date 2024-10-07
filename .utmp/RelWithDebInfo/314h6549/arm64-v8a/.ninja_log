@@ -1,0 +1,12 @@
+# ninja log v5
+35	1549	7500262413752936	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	cebf1e3334583e1f
+16	1638	7500262415077437	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	c785f5e2539b9dbb
+9	1768	7500262416830169	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	f502b7fc9ad628b9
+83	1785	7500262416830169	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	78d7bbb0e658884b
+74	1789	7500262417206597	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d0b7c4dd5b91e40f
+1622	1792	7500262417106131	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d12755d0d8376fbe
+1	1845	7500262417784036	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	6c42b1a149835be9
+1792	1935	7500262418773103	C:/Users/victo/OneDrive/Escritorio/LittleAstronaut/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/314h6549/obj/arm64-v8a/libswappywrapper.so	31e40e5c6381038a
+24	1978	7500262419170444	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	dad50630742e48af
+89	2011	7500262419472193	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	eb3457906ca6e2ef
+2012	2101	7500262420431132	C:/Users/victo/OneDrive/Escritorio/LittleAstronaut/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/314h6549/obj/arm64-v8a/libgame.so	1831cd31aa500b7c
