@@ -19,6 +19,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Movement()
     {
+        print("Input" + Input.touchCount);
         if(Input.touchCount > 0)
         {
             //Touch detection
@@ -28,6 +29,7 @@ public class PlayerMovement : MonoBehaviour
             touchPosition.z = 0.0f;
             direction = touchPosition - transform.position;
             rb.linearVelocity = new Vector2(direction.x, direction.y) * moveSpeed * Time.deltaTime;
+            print("Se esta moviendo");
             //Validator What if is not touching
             if (playerTouch.phase == TouchPhase.Ended)
             {
