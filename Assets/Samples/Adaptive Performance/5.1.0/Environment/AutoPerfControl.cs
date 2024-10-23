@@ -219,12 +219,12 @@ public class AutoPerfControl : MonoBehaviour
         {
             case LoadLevel.loadlevels.High:
                 EnableGameObject(HighLevelLoad);
-                HighLevelLoadManager Hmanager = FindObjectOfType<HighLevelLoadManager>();
+                HighLevelLoadManager Hmanager = FindFirstObjectByType<HighLevelLoadManager>();
                 Hmanager.SetLoad(Hmanager.startingLoadAmount);
                 break;
             case LoadLevel.loadlevels.Mid:
                 EnableGameObject(MidLevelLoad);
-                MidLevelLoadManager Mmanager = FindObjectOfType<MidLevelLoadManager>();
+                MidLevelLoadManager Mmanager = FindFirstObjectByType<MidLevelLoadManager>();
                 Mmanager.SetLoad(Mmanager.startingLoadAmount);
                 break;
             case LoadLevel.loadlevels.No:

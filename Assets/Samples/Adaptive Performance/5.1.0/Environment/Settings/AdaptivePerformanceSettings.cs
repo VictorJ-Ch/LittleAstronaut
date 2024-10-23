@@ -71,7 +71,7 @@ public class AdaptivePerformanceSettings : MonoBehaviour
         settings.scalerSettings.AdaptiveTransparency.enabled = AdaptiveTransparency;
         settings.scalerSettings.AdaptiveViewDistance.enabled = AdaptiveViewDistance;
 #if UNITY_ADAPTIVE_PERFORMANCE_SAMSUNG_ANDROID
-        var adaptiveVRR = GameObject.FindObjectOfType<AdaptiveVariableRefreshRate>();
+        var adaptiveVRR = GameObject.FindFirstObjectByType<AdaptiveVariableRefreshRate>();
         if (adaptiveVRR)
             adaptiveVRR.Enabled = AdaptiveVRR;
 #endif

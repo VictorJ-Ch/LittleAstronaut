@@ -1,0 +1,12 @@
+# ninja log v5
+115	1285	7512649238864082	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	d2a0c3c6bf1c1978
+1288	1483	7512649240826585	C:/Users/victo/Desktop/LittleAstronaut/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5s671s6a/obj/arm64-v8a/libswappywrapper.so	75277d95124a725c
+49	7300	7512649298894863	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	90006ed2e603ee10
+62	8455	7512649310462279	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	39957443f06b850
+104	8460	7512649310467388	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e33766d19825d1a2
+20	8474	7512649310542772	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	bec23acb0f28b14f
+91	8522	7512649311107157	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	65f5ac911d47afac
+10	8562	7512649311559030	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e2444202dc0d0d74
+74	8773	7512649313423392	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	72c9cc71fcda6a4d
+1	8900	7512649314843447	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f0f21197525683b9
+8901	9261	7512649318634902	C:/Users/victo/Desktop/LittleAstronaut/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5s671s6a/obj/arm64-v8a/libgame.so	c9cdeee725d31e05

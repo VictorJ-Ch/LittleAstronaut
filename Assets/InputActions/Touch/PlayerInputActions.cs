@@ -71,7 +71,7 @@ namespace PlayerInputActions
                 {
                     ""name"": """",
                     ""id"": ""65ff9814-e387-43c1-964c-46ddabbf122a"",
-                    ""path"": ""<Touchscreen>/touch2/press"",
+                    ""path"": ""<Touchscreen>/primaryTouch/press"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
